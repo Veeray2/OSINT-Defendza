@@ -25,3 +25,5 @@ click on Source Control on the left hand side
 Stage all changes
 click the 3 dots to get the more options then select to commit and add a msg
 Go back to the extra options and select to push to... and press [enter] to push to master
+
+kyle
